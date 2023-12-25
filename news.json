@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Did you know?",
+    "description": "Women collect historic achievements in football; see eight of them this March 8th.",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
+    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+  },
+  {
+    "id": 2,
+    "title": "Why will I stop dreaming?",
+    "description": "In a letter to her son, Cristiane recalls her difficult childhood and ambitions: Why will I stop dreaming?",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
+    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/02/em-carta-ao-filho-cristiane-recorda-infancia-dura-e-ambicoes-por-que-vou-parar-de-sonhar.ghtml"
+  },
+  {
+    "id": 3,
+    "title": "Duo of respect",
+    "description": "With a show by the duo Jhonson and Aline, Brazil debuts with victory in the U17 Women's South American Championship.",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/03/02/com-show-da-dupla-jhonson-e-aline-brasil-estreia-com-vitoria-no-sul-americano-feminino-sub-17.ghtml"
+  },
+  {
+    "id": 4,
+    "title": "Premiere scheduled",
+    "description": "São Paulo publishes the women's team number and has a new number 10 shirt; see list.",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
+    "link": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2022/03/04/noticias-spfc-sao-paulo-numeracao-time-feminino-camisa-10-lista.ghtml"
+  }
+]
